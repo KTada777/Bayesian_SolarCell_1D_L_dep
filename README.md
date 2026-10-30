@@ -1,2 +1,4 @@
 # Bayesian_SolarCell_1D_L_dep
 Supplementary Data for K. Tada, "Characterization of light-intensity dependence of equivalent-circuit parameters in organic photovoltaic cells via Bayesian estimation," Jpn. J. Appl. Phys.  DOI 10.35848/1347-4065/aeb94e
+
+Note that These Are Experimental Codes for the Purpose of Helping the Readers of the Paper to Validate the Concept of the Present Study, and the Author Is Not Responsible for any Damages that May Result from Their Use.
